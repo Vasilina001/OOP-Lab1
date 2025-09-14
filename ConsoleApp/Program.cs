@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿// See https://aka.ms/new-console-template for more information
 namespace ConsoleApp
 {
@@ -12,3 +13,8 @@ namespace ConsoleApp
         }
     }
 }
+=======
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+Console.ReadKey();
+>>>>>>> d9be1b3234570addd0a38552cd277901a51a86e5
